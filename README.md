@@ -1,0 +1,1 @@
+# HashSum Plugin BLAKE3
